@@ -1,0 +1,25 @@
+{
+  "name": "npm-template-wx",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3wind/npm-template-wx.git"
+  },
+  "keywords": [
+    "test",
+    "publish",
+    "npm"
+  ],
+  "author": "wangx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3wind/npm-template-wx/issues"
+  },
+  "homepage": "https://github.com/3wind/npm-template-wx#readme",
+  "type": "module"
+}
